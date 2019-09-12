@@ -1,4 +1,4 @@
-import Experiments from '@wix/wix-experiments';
+import Experiments from '@wix/wix-experiments';//
 
 import {
   IWidgetControllerConfig,
